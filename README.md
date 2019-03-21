@@ -1,4 +1,4 @@
-# Restful Flask
+# Jekyll
 > Just playing with Jekyll
 
 ##  Install dependencies
