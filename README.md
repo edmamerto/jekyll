@@ -14,3 +14,17 @@ $ bundle exec jekyll serve
 ```sh
 $ bundle exec jekyll post
 ```
+## Front Matter
+if you look at `_posts/<post>.md`
+
+you'll see this yaml snippet
+```
+---
+layout: post
+title: hello world
+date: 2019-03-17 02:53 -0400
+category: personal 
+tags: fun
+---
+```
+This is called the  `front matter` and contains metadata about the post 
