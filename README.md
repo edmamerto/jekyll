@@ -28,3 +28,5 @@ tags: fun
 ---
 ```
 This is called the  `front matter` and contains metadata about the post 
+
+See [markdown](https://gist.github.com/roachhd/779fa77e9b90fe945b0c) for content.
